@@ -1,5 +1,5 @@
 # Unity-Sprite-Shadows
-<h3>Enables Shadows For Sprites In Unity - And Motion Vectors</h3>
+<h3>Enables Shadows And Motion Vectors For Sprites In Unity</h3>
 <h4>HDRP Compatible</h4>
 
 <div display="inline">
